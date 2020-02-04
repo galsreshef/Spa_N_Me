@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Spa N Me</string>
+    <string name="none" translatable="false" />
+    <string name="set_time">Set Time</string>
+    <string name="set_date">Set Date</string>
+    <string name="phone_number">"Phone number "</string>
+    <string name="reset">Reset</string>
+    <string name="next">Next</string>
+    <string name="shiatsu">Shiatsu massage</string>
+    <string name="thai_massage">Thai Massage</string>
+    <string name="swedish_massage">Swedish Massage</string>
+    <string name="opening_times">We are open\nSun – Sat\n10:00–20:00</string>
+    <string name="how_many_people">How Many</string>
+    <string name="enter_name">Enter name</string>
+    <string name="min_intervals">Please Select 15 Min Intervals</string>
+    <string name="spa_booking">Spa Booking</string>
+    <string name="sms_sent">SMS was Sent Successfully</string>
+    <string name="enter_mobile_number">Enter mobile number:</string>
+    <string name="enter_message">Enter message:</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="book">Book</string>
+    <string name="your_order_details">, here is your order:</string>
+    <string name="email">Email</string>
+    <string name="calendar">Reminder</string>
+    <string name="finish">Finish</string>
+    <string name="book_spa">Book Spa</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="set">Set</string>
+    <string name="your_spa_booking_on">Your Spa Booking on:</string>
+    <string name="please_enter_phone_number">Complete all fields please</string>
+    <string name="please_select_date">Please select date!</string>
+    <string name="please_check_available_hours">Please Check Available hours!</string>
+    <string name="time_is_ok">time is OK</string>
+    <string name="hello">"Hello "</string>
+    <string name="welcome_to_booking">, welcome to booking</string>
+    <string name="reception">Reception</string>
+    <string name="order_for">"For "</string>
+    <string name="people">" people:"</string>
+    <string name="on">"On "</string>
+    <string name="at">" @ "</string>
+    <string name="type_of_treatment">"Type of Treatment Selected is: "</string>
+    <string name="hi_i_booked">"Hi, I Booked us a "</string>
+    <string name="treatment"> treatment  @ Spa N Me.  On: </string>
+    <string name="treatment1">" treatment."</string>
+    <string name="treatment2">"At Spa N Me,  on: "</string>
+
+    <string name="its_going_to">It\'s going to be fun. See ya\'</string>
+    <string name="thank_you">"Thank you for your booking.\nSpa N more"</string>
+    <string name="people_on">" people. On:</string>
+    <string name="total_of">"Total of: "</string>
+    <string name="hi_your_order">"Hi,  Your order for:\n"</string>
+    <string name="choose_email">Choose email client…</string>
+    <string name="spanme_booking">Spa N Me Booking</string>
+    <string name="spa_treatment">Spa treatment</string>
+    <string name="website" translatable="false"><![CDATA[https://spa-n-me.business.site]]></string>
+    <string name="spread_the_word">Spread the word</string>
+    <string name="you_got_the_power">You got the power!</string>
+    <string name="reorder_home_stay">Do you want to reorder, go to home screen of just stay?</string>
+    <string name="reorder">Reorder</string>
+    <string name="home">Home</string>
+    <string name="stay">Stay</string>
+    <string name="i_want_to_stay">i want to stay on this page</string>
+    <string name="cancel_order">Are you sure you want to cancel your order?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="whatsapp" translatable="false">Whatsapp</string>
+    <string name="phone_number2">"Phone number "</string>
+    <string name="what_is">"What is "</string>
+    <string name="valid_hours">Hour between 10–21</string>
+</resources>
